@@ -1,0 +1,14 @@
+body{
+background-color: #4CC3D9 ;
+font-family: Helvetica; /*Changes font of entire website to Helvetica*/
+font-size: block;
+margin: 0px 10% 0 10%; /*remember top, right, bottom, left*/
+color: #0000b3; /*refers to font color dark bluiiiiish :)*/
+font-size: 20px;
+}
+
+h1{
+color: white ; /*change color of H1 to tealiiiish*/
+text-align: center; /*center the H1*/
+text-shadow: 1px 0 0 #0000b3, 0 -1px 0 #0000b3,
+}
